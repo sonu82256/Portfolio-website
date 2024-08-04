@@ -179,7 +179,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://content.jdmagicbox.com/comp/visakhapatnam/f6/0891px891.x891.191015222206.j9f6/catalogue/sri-chaitanya-junior-college-visakhapatnam-junior-colleges-f43hctlvqw.jpg",
     school: "Sri Chaitanya Educational Institutions",
     date: "June 2018",
     grade: "71.6%",
@@ -251,8 +251,8 @@ export const projects = [
       "map function",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
-    webapp: "https://github.com/rishavchanda/Project-Management-App",
+    github: "https://github.com/sonu82256/TicTacToe.git",
+    webapp: "https://tic-tac-toe-seven-orpin-38.vercel.app",
   },
   {
     id: 2,
@@ -265,7 +265,7 @@ export const projects = [
     tags: ["Python", "Pandas", "Numpy", "Matplotlib", "OpenCV", "Tenserflow"],
     category: "machine learning",
     github: "https://github.com/sonu82256/lunges_cancer_CNN.git",
-    webapp: "https://brain-tumor.netlify.app/",
+    webapp: "https://www.canva.com/design/DAFgeOcQ7ns/bUhzy7F91h2tFMb4zC1PYw/edit?utm_content=DAFgeOcQ7ns&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
     member: [
       {
         name: "Manisha Minz",
