@@ -1,7 +1,7 @@
 export const Bio = {
   name: "Sonu Kumar",
   roles: [
-    "Full Stack Web Developer",
+    "Full Stack Developer",
     "Mobile Developer",
     "Programmer",
   ],
@@ -96,6 +96,11 @@ export const skills = [
         name: "React Native",
         image:
           "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
+      },
+      {
+        name: "Android Studio",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Android_Studio_Logo_%282023%29.svg/240px-Android_Studio_Logo_%282023%29.svg.png",
       },
     ],
   },
@@ -209,51 +214,32 @@ export const projects = [
     github: "https://github.com/sonu82256/movix.git",
     webapp: "https://movix-sv58.vercel.app/",
   },
-  // {
-  //   id: 0,
-  //   title: "Podstream",
-  //   date: "Apr 2023 - May 2023",
-  //   description:
-  //     "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
-  //   image:
-  //     "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-  //   tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Podstream",
-  //   webapp: "https://podstream.netlify.app/",
-  //   member: [
-  //     {
-  //       name: "Rishav Chanda",
-  //       img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-  //       linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  //       github: "https://github.com/rishavchanda/",
-  //     },
-  //     {
-  //       name: "Upasana Chaudhuri",
-  //       img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-  //       linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-  //       github: "https://github.com/upasana0710",
-  //     },
-  //   ],
-  // },
   {
-    id: 1,
-    title: "TicTacToe",
-    date: "Aug 2023",
+    id: 9,
+    title: "SonuEstate",
+    date: "June 2024 - Aug 2024",
     description:
-      "Developed an interactive Tic-Tac-Toe game to enhance my understanding of state management in React. This project involved creating a fully functional game interface where two players can play against each other, with dynamic updates and visual feedback. Through this project, I deepened my knowledge of React hooks, state handling, and component-driven development..",
+      "Sonu Estate is a leading real estate agency that specializes in helping clients buy, sell, and rent properties in the most desirable neighborhoods. Our team of experienced agents is dedicated to providing exceptional service and making the buying and selling process as smooth as possible.",
     image:
-      "https://github.com/sonu82256/Github-pics/blob/main/TicTacToe.png?raw=true",
+      "https://github.com/sonu82256/Github-pics/blob/main/sonuEstate%20cover.png?raw=true",
     tags: [
-      "React Js",
-      "useState Hook",
-      "Array",
-      "map function",
+      "ReactJs",
+      "React Router DOM",
+      "Redux Toolkit",
+      "Tailwind CSS",
+      "Firebase Authenticatoin",
+      "Firebase Store",
+      "NodeJs",
+      "ExpressJs",
+      "MongoDb",
+      "BcryptJs",
+      "JSON Web Token",
     ],
     category: "web app",
-    github: "https://github.com/sonu82256/TicTacToe.git",
-    webapp: "https://tic-tac-toe-seven-orpin-38.vercel.app",
+    github: "https://github.com/sonu82256/mern-estate.git",
+    webapp: "https://mern-estate-09y0.onrender.com",
   },
+
   {
     id: 2,
     title: "detection and classification of lung cancer using CNN",
@@ -293,91 +279,69 @@ export const projects = [
     category: "android app",
     github: "https://github.com/sonu82256/Blood-Donation-Android.git",
     webapp: "https://www.canva.com/design/DAFgkXR8SPE/9KU58lkr_67Xf5TKVXZc-A/edit?utm_content=DAFgkXR8SPE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+    member: [
+      {
+        name: "Manisha Minz",
+        img: "https://media.licdn.com/dms/image/C4D03AQERcSEQIH4OGA/profile-displayphoto-shrink_800_800/0/1663336503356?e=1728518400&v=beta&t=XrdriB0uw2RxnvCrbD_466zogRsw9oPfBEiWyAidrhU",
+        linkedin: "https://www.linkedin.com/in/manisha-minz-207a01235/",
+        github: "https://github.com",
+      },
+      {
+        name: "Sushant Guria",
+        img: "https://media.licdn.com/dms/image/C4D03AQEvb30QIWSNPw/profile-displayphoto-shrink_800_800/0/1661495102356?e=1728518400&v=beta&t=VqNr1ISO4Py9C4WSaJNxxaMmJcZ1VsEPxAK2trJhgts",
+        linkedin: "https://www.linkedin.com/in/sushant-guria-421a12235/",
+        github: "https://github.com",
+      },
+    ],
   },
+
+  {
+    id: 1,
+    title: "TicTacToe",
+    date: "Aug 2023",
+    description:
+      "Developed an interactive Tic-Tac-Toe game to enhance my understanding of state management in React. This project involved creating a fully functional game interface where two players can play against each other, with dynamic updates and visual feedback. Through this project, I deepened my knowledge of React hooks, state handling, and component-driven development..",
+    image:
+      "https://github.com/sonu82256/Github-pics/blob/main/TicTacToe.png?raw=true",
+    tags: [
+      "React Js",
+      "useState Hook",
+      "Array",
+      "map function",
+    ],
+    category: "web app",
+    github: "https://github.com/sonu82256/TicTacToe.git",
+    webapp: "https://tic-tac-toe-seven-orpin-38.vercel.app",
+  },
+
   // {
-  //   id: 10,
-  //   title: "Job Finding App",
-  //   date: "Jun 2023 - Jul 2023",
+  //   id: 3,
+  //   title: "Chat App",
+  //   date: "Oct 2023 - Dec 2023",
   //   description:
-  //     "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
+  //     "It referred as a messaging app. It allows to communicate and exchange messages with one another in real-time over the internet.",
   //   image:
-  //     "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
-  //   tags: ["React Native", "JavaScript", "Axios"],
+  //     "https://github.com/sonu82256/Github-pics/blob/main/chat-app-reactnative.png?raw=true",
+  //   tags: ["React Native", "Node", "ExpressJS", "MongoDb", "CSS stylled component", 'Material UI'],
   //   category: "android app",
-  //   github: "https://github.com/rishavchanda/Job-finder-App",
-  //   webapp: "https://github.com/rishavchanda/Job-finder-App",
+  //   // github: "https://github.com/sonu82256/Blood-Donation-Android.git",
+  //   // webapp: "https://www.canva.com/design/DAFgkXR8SPE/9KU58lkr_67Xf5TKVXZc-A/edit?utm_content=DAFgkXR8SPE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+  //   member: [
+  //     {
+  //       name: "Manisha Minz",
+  //       img: "https://media.licdn.com/dms/image/C4D03AQERcSEQIH4OGA/profile-displayphoto-shrink_800_800/0/1663336503356?e=1728518400&v=beta&t=XrdriB0uw2RxnvCrbD_466zogRsw9oPfBEiWyAidrhU",
+  //       linkedin: "https://www.linkedin.com/in/manisha-minz-207a01235/",
+  //       github: "https://github.com",
+  //     },
+  //     {
+  //       name: "Sushant Guria",
+  //       img: "https://media.licdn.com/dms/image/C4D03AQEvb30QIWSNPw/profile-displayphoto-shrink_800_800/0/1661495102356?e=1728518400&v=beta&t=VqNr1ISO4Py9C4WSaJNxxaMmJcZ1VsEPxAK2trJhgts",
+  //       linkedin: "https://www.linkedin.com/in/sushant-guria-421a12235/",
+  //       github: "https://github.com",
+  //     },
+  //   ],
   // },
-  // {
-  //   id: 4,
-  //   title: "Whatsapp Clone",
-  //   date: "Jul 2021",
-  //   description:
-  //     "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
-  //   image:
-  //     "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
-  //   tags: ["React Js", "Firebase", "Firestore", "Node JS"],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-  //   webapp: "https://whatsapp-clone-rishav.web.app",
-  // },
-  // {
-  //   id: 5,
-  //   title: "Todo Web App",
-  //   date: "Jun 2021",
-  //   description:
-  //     " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
-  //   image:
-  //     "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
-  //   tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Todo-Web-App",
-  //   webapp: "https://rishav-react-todo.netlify.app/",
-  // },
-  // {
-  //   id: 6,
-  //   title: "Breaking Bad",
-  //   date: "Jun 2021",
-  //   description:
-  //     "A simple react app that shows the characters of the famous TV series Breaking Bad. It uses the Breaking Bad API to fetch the data. It also has a search bar to search for a particular character.",
-  //   image:
-  //     "https://camo.githubusercontent.com/cd07010cbeb90cb1b43a5d6162784326aef02210ef7d41a0f9ae043b3e392378/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f7425323028313534292e706e673f616c743d6d6564696126746f6b656e3d65613439383630632d303435362d343333342d616435372d336239346663303333363263",
-  //   tags: ["React Js", "API", "Axios", "Node JS"],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Breaking-Bad",
-  //   webapp: "https://breaking-bad-webapp.netlify.app",
-  // },
-  // {
-  //   id: 7,
-  //   title: "Quiz App",
-  //   date: "Dec 2020 - Jan 2021",
-  //   description:
-  //     "A android quiz app made with Java and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.",
-  //   image:
-  //     "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
-  //   tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
-  //   category: "android app",
-  //   github: "https://github.com/rishavchanda/Quiz-Earn",
-  //   webapp: "https://github.com/rishavchanda/Quiz-Earn",
-  // },
-  // {
-  //   id: 8,
-  //   title: "Face Recognition",
-  //   date: "Jan 2021",
-  //   description:
-  //     "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
-  //   image:
-  //     "https://camo.githubusercontent.com/a8b3e1ebf26d4c95f75bc6671189a3590eb67eb8332d7c7452492990e731efb9/68747470733a2f2f77617265686f7573652d63616d6f2e696e67726573732e636d68312e707366686f737465642e6f72672f356137383335396561323762643261633232336437656662306639303831306437373930383436312f363837343734373037333361326632663633366336663735363432653637363937343638373536323735373336353732363336663665373436353665373432653633366636643266363137333733363537343733326633383339333633363339333232663332333433343333333033333339333832663333333636363330363533333636333032643331333336333632326433313331363533373264333833323335333832643334363433303633333936333635333136353334333133393265363736393636",
-  //   tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-  //   category: "machine learning",
-  //   github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-  //   webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-  // },
+ 
 ];
 
-export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
-];
+
