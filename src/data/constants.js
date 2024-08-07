@@ -14,6 +14,7 @@ export const Bio = {
   twitter: "https://x.com/sonu82256?s=21&t=t4WXIwHXiA5XXDPVJZsjzQ",
   insta: "https://www.instagram.com/sonu82256/",
   facebook: "https://www.facebook.com/profile.php?id=100007845258543",
+  
 };
 
 export const skills = [
